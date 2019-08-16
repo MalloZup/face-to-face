@@ -1,3 +1,4 @@
 face-to-face
 ============
-README text here.
+
+experimental event-driven webserver written in Racket Lisp
